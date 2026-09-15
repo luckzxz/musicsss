@@ -23,8 +23,7 @@ return {
         {name = "Uno zero", id = "112959083808887"},
         {name = "Iate do neymar", id = "135738534706063"},
         {name = "Batidao na aldeia", id = "79953696595578"},
-        {name = "caraless whisper", id = "71306564835472"},
-        {name = "draxxx", id = "130012040756565"}
+        {name = "caraless whisper", id = "71306564835472"}
     },
     ["Trap"] = {
         {name = "Fumadouro Freestyle (Igorivooz)", id = "138361625716987"},
