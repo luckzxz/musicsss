@@ -63,7 +63,8 @@ return {
         {name = "boate azul (IgorIvooz)", id = "106412079335663"},
         {name = "Matuê - Cogulândia", id = "113043854379729"},
         {name = "tu não sabe", id = "92248692807220"},
-        {name = "dromedário", id = "115058193026275"}
+        {name = "dromedário", id = "115058193026275"},
+        {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
         {name = "Meu Hd Chei De Cp", id = "118351471702293"},
