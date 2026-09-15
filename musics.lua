@@ -477,7 +477,8 @@ return {
         {name = "MCHAHA VEM DE KUNIMIN (CLXYAL X CZZ)", id = "102838230236387"},
         {name = "BROTA NA DZ7 - MC 4W MC ROGE ( DJ GH7 ) MANDELÃO CLASSE A - ( BIELXP7 )", id = "91718655037908"},
         {name = "ONDA DO BERIMBAU - STATUS TIK TOK - MC Menor MT, DJ Eduardo [Vtzin]", id = "90728144562197"},
-        {name = "MONTAGEM TUIM IRRITANTE 3 - MC Geday & MC Miran ( DJ", id = "74256017407052"}
+        {name = "MONTAGEM TUIM IRRITANTE 3 - MC Geday & MC Miran ( DJ", id = "74256017407052"},
+        {name = "repete novihA", id = "106536137601932"}
     },
     ["Phonk"] = {
         {name = "wyles", id = "85385155970460"},
