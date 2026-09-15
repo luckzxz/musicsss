@@ -538,7 +538,8 @@ return {
         {name = "HIPNOTIZA", id = "132015050363205"},
         {name = "MIDZUKI speed up", id = "129151948619922"},
         {name = "CRISTAL", id = "103445348511856"},
-        {name = "ÍÍÍÍÍÍÍÍÍÍÍ v2", id = "118225359190317"}
+        {name = "ÍÍÍÍÍÍÍÍÍÍÍ v2", id = "118225359190317"},
+        {name = "muscles", id = "￴￴140191183373449"}
     },
     ["Musicas e Memes Aleatorio"] = {
         {name = "desca dai seu corno", id = "119738878921996"},
