@@ -479,7 +479,8 @@ return {
         {name = "ONDA DO BERIMBAU - STATUS TIK TOK - MC Menor MT, DJ Eduardo [Vtzin]", id = "90728144562197"},
         {name = "MONTAGEM TUIM IRRITANTE 3 - MC Geday & MC Miran ( DJ", id = "74256017407052"},
         {name = "repete novihA", id = "106536137601932"},
-        {name = "me apaixonei", id = "132901244600372"}
+        {name = "me apaixonei", id = "132901244600372"},
+        {name = "México funk", id = "107553113067574"}
     },
     ["Phonk"] = {
         {name = "wyles", id = "85385155970460"},
