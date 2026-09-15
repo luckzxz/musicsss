@@ -23,7 +23,18 @@ return {
         {name = "Uno zero", id = "112959083808887"},
         {name = "Iate do neymar", id = "135738534706063"},
         {name = "Batidao na aldeia", id = "79953696595578"},
-        {name = "testando", id = "1"}
+        {name = "testando", id = "1"},
+        {name = "OH KANALHA", id = "123785985180086"},
+        {name = "Tudo que você quiser", id = "79536757614336"},
+        {name = "Chuva De Arroz", id = "102120036739514"},
+        {name = "A Culpa É Nossa", id = "72213295707216"},
+        {name = "Tava aqui pensando", id = "82929658013383"},
+        {name = "OH POLEMICO", id = "97825347303470"},
+        {name = "MAS FOI SÓ UMA BOTADINHA AMOR", id = "84624301411909"},
+        {name = "maquina do tempo", id = "139804920241550"},
+        {name = "nossa nossa assim vc me mata", id = "132733152117833"},
+        {name = "cadeira de aço", id = "96888228525073"},
+        {name = "AMOR OU LITRÃO ( 0XDZN X CLXYAL X BLOODYROBINS X COLD)", id = "75474964672565"}
     },
     ["Trap"] = {
         {name = "Fumadouro Freestyle (Igorivooz)", id = "138361625716987"},
