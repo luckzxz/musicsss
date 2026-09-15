@@ -451,7 +451,8 @@ return {
         {name = "meta ritmo", id = "110091098283354"},
         {name = "CAPPUCCINO ASSASSINO (SPEDUP)", id = "132733033157915"},
         {name = "haha (NGI)", id = "122114766584918"},
-        {name = "haha", id = "122114766584918"}
+        {name = "haha", id = "122114766584918"},
+        {name = "teste", id = "1111"}
     },
     ["Phonk"] = {
         {name = "wyles", id = "85385155970460"},
