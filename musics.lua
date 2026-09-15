@@ -493,7 +493,8 @@ return {
         {name = "me apaixonei", id = "132901244600372"},
         {name = "México funk", id = "107553113067574"},
         {name = "joga joga", id = "109330943148950"},
-        {name = "vou comer", id = "120128651479800"}
+        {name = "vou comer", id = "120128651479800"},
+        {name = "trobei uma novinhÁ", id = "74967642581893"}
     },
     ["Phonk"] = {
         {name = "wyles", id = "85385155970460"},
