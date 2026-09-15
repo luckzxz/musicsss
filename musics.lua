@@ -61,7 +61,8 @@ return {
         {name = "Yung Nobre - Rip Fredo Santana (IgorIvooz)", id = "82533576915716"},
         {name = "Brocasito - Pimp Talk (IgorIvooz)", id = "133029122379275"},
         {name = "boate azul (IgorIvooz)", id = "106412079335663"},
-        {name = "Matuê - Cogulândia", id = "113043854379729"}
+        {name = "Matuê - Cogulândia", id = "113043854379729"},
+        {name = "tu não sabe", id = "92248692807220"}
     },
     ["Funk"] = {
         {name = "Meu Hd Chei De Cp", id = "118351471702293"},
