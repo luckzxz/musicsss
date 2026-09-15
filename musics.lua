@@ -23,7 +23,6 @@ return {
         {name = "Uno zero", id = "112959083808887"},
         {name = "Iate do neymar", id = "135738534706063"},
         {name = "Batidao na aldeia", id = "79953696595578"},
-        {name = "testando", id = "1"},
         {name = "OH KANALHA", id = "123785985180086"},
         {name = "Tudo que você quiser", id = "79536757614336"},
         {name = "Chuva De Arroz", id = "102120036739514"},
