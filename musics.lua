@@ -501,8 +501,7 @@ return {
         {name = "solta o funk", id = "94379191381041"},
         {name = "me desbloquear", id = "84571646803645"},
         {name = "vqeluck", id = "112088206507"},
-        {name = "eletro", id = "122871552019283"},
-        {name = "Teste", id = "123456789"}
+        {name = "eletro", id = "122871552019283"}
     },
     ["Phonk"] = {
         {name = "wyles", id = "85385155970460"},
