@@ -66,6 +66,8 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "DJ DAS FAVELA - MONTAGEM RABE DA P7TARIA - 2019 - ( FACADA - BIELXP7 - DARTSBULLETS - GAZ1NH - CLXYAL - PLENAX - DZN )", id = "81730477878065"},
+        {name = "pgd e VQ", id = "75553869931109"},
         {name = "Meu Hd Chei De Cp", id = "118351471702293"},
         {name = "discord", id = "106285676892349"},
         {name = "Terranova", id = "82746224492420"},
