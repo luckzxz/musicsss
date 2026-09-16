@@ -66,6 +66,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "GESTÃ_O DO LV 1.0 REMIX ARROCHADEIRA - MC LAVINNE E GB NO BEAT - SARRADÃ_O ONDA DA WOLF CAMISA DO BR - ( GUSTAVOLUCHEZ - BIELXP7  - DARTSBULLETS )", id = "111425053457342"},
         {name = "DJ DAS FAVELA - MONTAGEM RABE DA P7TARIA - 2019 - ( FACADA - BIELXP7 - DARTSBULLETS - GAZ1NH - CLXYAL - PLENAX - DZN )", id = "81730477878065"},
         {name = "pgd e VQ", id = "75553869931109"},
         {name = "Meu Hd Chei De Cp", id = "118351471702293"},
