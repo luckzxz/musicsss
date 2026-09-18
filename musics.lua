@@ -79,7 +79,6 @@ return {
         {name = "união flasco", id = "107991235917983"},
         {name = "aqui!", id = "94596157966965"},
         {name = "Quero saber a cor da sua c4lc1nh4", id = "91138103156778"},
-        {name = "gin de 10", id = "140191183373449"},
         {name = "difícil de esquecer essa botada em você", id = "74442563897758"},
         {name = "street fighter funk", id = "71193421005563"},
         {name = "piranha vai passar mal", id = "129902784040741"},
