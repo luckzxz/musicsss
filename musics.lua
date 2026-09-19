@@ -66,6 +66,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "foi só socada", id = "124950663117359"},
         {name = "ela pensou", id = "126821000601591"},
         {name = "ixpermatozoide voador (max011 vq bielxp7)", id = "116143892531133"},
         {name = "GESTÃ_O DO LV 1.0 REMIX ARROCHADEIRA - MC LAVINNE E GB NO BEAT - SARRADÃ_O ONDA DA WOLF CAMISA DO BR - ( GUSTAVOLUCHEZ - BIELXP7  - DARTSBULLETS )", id = "111425053457342"},
