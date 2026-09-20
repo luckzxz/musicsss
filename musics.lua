@@ -36,6 +36,7 @@ return {
         {name = "AMOR OU LITRÃO ( 0XDZN X CLXYAL X BLOODYROBINS X COLD)", id = "75474964672565"}
     },
     ["Trap"] = {
+        {name = "deprimido", id = "114112648499028"},
         {name = "Fumadouro Freestyle (Igorivooz)", id = "138361625716987"},
         {name = "BROCASITO - FUCK12FUCK17 (IgorIvooz)", id = "73198805524530"},
         {name = "nn sei", id = "107542190375511"},
