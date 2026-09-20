@@ -66,6 +66,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "nova", id = "107174883653819"},
         {name = "foi só socada", id = "124950663117359"},
         {name = "ela pensou", id = "126821000601591"},
         {name = "ixpermatozoide voador (max011 vq bielxp7)", id = "116143892531133"},
