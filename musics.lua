@@ -178,7 +178,6 @@ return {
         {name = "(Bruxaria derruba noia)", id = "108990536280174"},
         {name = "(kn beat)", id = "130304783327966"},
         {name = "(menor do Pecece)", id = "125516171040480"},
-        {name = "(MTG Apocali­ptica do Bolsonaro)", id = "94729386479038"},
         {name = "(Montagem  MacetaÃ§Ã£o)", id = "110276209348037"},
         {name = "( nike )", id = "107416893652681"},
         {name = "Os Menor sÃ£o marolento", id = "126719632721905"},
