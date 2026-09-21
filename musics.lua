@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "mtg game", id = "94678954269340"},
         {name = "mtg Lula", id = "94729386479038"},
         {name = "paulista", id = "107129428818750"},
         {name = "hope xxxtentacion", id = "99551853291230"},
