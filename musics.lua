@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "MONTAGEM SINISTRA (By vzim30 x BlackzX x DARK SOUNDS)", id = "109571466677649"},
         {name = "poleta", id = "138981629726601"},
         {name = "amor de bandidu", id = "03811087853875"},
         {name = "pula pula", id = "103811087853875"},
