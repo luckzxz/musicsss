@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "Olhos Escarlate - DJ TRANSTORNO (Witor x vzim30)", id = "107571287950625"},
         {name = "ID: - Desestressa - GREG NO BEAT ( MC DENNY ) - ( BIELXP7 ) - ( THEMAX011 )", id = "131777662810651"},
         {name = "ID:  NA VOLTA DO BAILE DOIDA PRA TRANSAR MCs Topre sapinha (Dj ALEX BNH) - (PNEU)", id = "115512771113279"},
         {name = "ID:  PROFISSIONAIS DO JOB - DJ PROIBIDO - MC MR BIM (PNEU & VZIM30)", id = "80282038249456"},
