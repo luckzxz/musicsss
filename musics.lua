@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "ID: CARA DE TRALHA - A TARRAXADA E O TUBARÃO (ARROCHADEIRA 2022) - ( BIELXP7 )", id = "137015708756088"},
         {name = "Olhos Escarlate - DJ TRANSTORNO (Witor x vzim30)", id = "107571287950625"},
         {name = "ID: - Desestressa - GREG NO BEAT ( MC DENNY ) - ( BIELXP7 ) - ( THEMAX011 )", id = "131777662810651"},
         {name = "ID:  NA VOLTA DO BAILE DOIDA PRA TRANSAR MCs Topre sapinha (Dj ALEX BNH) - (PNEU)", id = "115512771113279"},
