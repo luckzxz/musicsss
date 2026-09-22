@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "ID:  PROFISSIONAIS DO JOB - DJ PROIBIDO - MC MR BIM (PNEU & VZIM30)", id = "80282038249456"},
         {name = "ID:  TACA NELA X FUMAR BEBER (PNEU & DARK SOUNDS)", id = "72367305973249"},
         {name = "MONTAGEM SINISTRA (By vzim30 x BlackzX x DARK SOUNDS)", id = "109571466677649"},
         {name = "poleta", id = "138981629726601"},
