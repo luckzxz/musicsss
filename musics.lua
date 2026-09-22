@@ -67,6 +67,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "ID:  NA VOLTA DO BAILE DOIDA PRA TRANSAR MCs Topre sapinha (Dj ALEX BNH) - (PNEU)", id = "115512771113279"},
         {name = "ID:  PROFISSIONAIS DO JOB - DJ PROIBIDO - MC MR BIM (PNEU & VZIM30)", id = "80282038249456"},
         {name = "ID:  TACA NELA X FUMAR BEBER (PNEU & DARK SOUNDS)", id = "72367305973249"},
         {name = "MONTAGEM SINISTRA (By vzim30 x BlackzX x DARK SOUNDS)", id = "109571466677649"},
