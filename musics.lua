@@ -139,7 +139,6 @@ return {
         {name = "Fluxo da Tropa", id = "134059682734950"},
         {name = "Baila na Quebrada", id = "145068394058674"},
         {name = "Cena do Perigo", id = "123049586749305"},
-        {name = "Ritmo do Fluxo", id = "87394058276495"},
         {name = "VAI MACHUCANDO A XT", id = "77741294709660"},
         {name = "FALA QUE A TROPA E CV", id = "97244783527670"},
         {name = "CANINHA SAFADO", id = "123509716049820"},
