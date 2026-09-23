@@ -129,7 +129,6 @@ return {
         {name = "No bailão", id = "117704589011831"},
         {name = "Berimbau Amostrado", id = "77712236704085"},
         {name = "Estratégia do Mago", id = "101741584984252"},
-        {name = "Ritmo do Mago", id = "93704875691060"},
         {name = "Mandela do Mago", id = "78159483726589"},
         {name = "Tropa do Mago", id = "115049385764023"},
         {name = "Fluxo do Mago", id = "97840582736495"},
