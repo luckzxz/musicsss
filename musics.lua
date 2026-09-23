@@ -134,7 +134,6 @@ return {
         {name = "Ritmo do Mago", id = "93704875691060"},
         {name = "Mandela do Mago", id = "78159483726589"},
         {name = "Tropa do Mago", id = "115049385764023"},
-        {name = "Cena do Mago", id = "138405967283401"},
         {name = "Fluxo do Mago", id = "97840582736495"},
         {name = "Mandelão do Mago", id = "142058694038576"},
         {name = "Tropa do Mandelão", id = "87394058276495"},
