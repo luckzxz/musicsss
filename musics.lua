@@ -131,7 +131,6 @@ return {
         {name = "Estratégia do Mago", id = "101741584984252"},
         {name = "Mandela do Mago", id = "78159483726589"},
         {name = "Tropa do Mago", id = "115049385764023"},
-        {name = "Fluxo do Mago", id = "97840582736495"},
         {name = "Ritmo do Perigo", id = "134059678234905"},
         {name = "Bota o Fluxo", id = "112049586739405"},
         {name = "Cena de Favela", id = "145068394058674"},
