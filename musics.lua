@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "Caska estourrada", id = "93965785952881"},
         {name = "GRWM (DIOGO - PGD)", id = "108306423679517"},
         {name = "1 2 3 intro (funk) - brocasito -\nSantzz", id = "115175524922535"},
         {name = "ID: CARA DE TRALHA - A TARRAXADA E O TUBARÃO (ARROCHADEIRA 2022) - ( BIELXP7 )", id = "137015708756088"},
