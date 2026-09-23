@@ -128,7 +128,6 @@ return {
         {name = "No Daily", id = "137149487552633"},
         {name = "No bailão", id = "117704589011831"},
         {name = "Berimbau Amostrado", id = "77712236704085"},
-        {name = "Montagem - O Mago", id = "93850654162047"},
         {name = "Estratégia do Mago", id = "101741584984252"},
         {name = "A Braba do Mago", id = "144567406839075"},
         {name = "Ritmo do Mago", id = "93704875691060"},
