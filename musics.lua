@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "SACANAGEMZINHA DO LOOP - PROD 2D & GB DO K11. (WITOR/DJ_JOAO73207", id = "116417585885956"},
         {name = "SÓ PRA Gzr DENTRO (PNEU)", id = "106952008398119"},
         {name = "MONTAGEM FAZ CARA DE SAFADA (PNEU)", id = "130295915678470"},
         {name = "Caska estourrada", id = "93965785952881"},
