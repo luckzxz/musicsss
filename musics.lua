@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "SÓ PRA Gzr DENTRO (PNEU)", id = "106952008398119"},
         {name = "MONTAGEM FAZ CARA DE SAFADA (PNEU)", id = "130295915678470"},
         {name = "Caska estourrada", id = "93965785952881"},
         {name = "GRWM (DIOGO - PGD)", id = "108306423679517"},
