@@ -69,6 +69,7 @@ return {
         {name = "descaso", id = "95674923139820"}
     },
     ["Funk"] = {
+        {name = "MONTAGEM MARCA DE BATOM - MC Vitinho ZS (DJ LFT) 2019 (WITOR X MOTOG)", id = "74423035509776"},
         {name = "DJ Digo Beat - Novinha Sensacional (WITOR/DJ_JOAO73207)", id = "100109274854032"},
         {name = ": MONTAGEM ELAS GOSTA DE MAMA SORRINDO (PNEU)", id = "109027316780930"},
         {name = "SACANAGEMZINHA DO LOOP - PROD 2D & GB DO K11. (WITOR/DJ_JOAO73207", id = "116417585885956"},
