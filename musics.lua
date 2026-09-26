@@ -525,6 +525,7 @@ return {
         {name = "eletro", id = "122871552019283"}
     },
     ["Phonk"] = {
+        {name = "MAMAR O BONDE - THEMAX011", id = "98468932764512"},
         {name = "wyles", id = "85385155970460"},
         {name = "Vai Que E No Vapor!", id = "94845998956451"},
         {name = "phonk kawai", id = "91502410121438"},
