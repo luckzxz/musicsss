@@ -72,7 +72,6 @@ return {
         {name = "sai fora", id = "109146055347656"},
         {name = "q isso", id = "132146926560723"},
         {name = "calma novinh", id = "122394483729363"},
-        {name = "cuidado", id = "￴ ￴ ￴ ￴￴109146055347656"},
         {name = "pique rj", id = "85153221690222"},
         {name = "não ajoelhar", id = "121675811816792"},
         {name = "MONTAGEM MARCA DE BATOM - MC Vitinho ZS (DJ LFT) 2019 (WITOR X MOTOG)", id = "74423035509776"},
