@@ -71,7 +71,6 @@ return {
     ["Funk"] = {
         {name = "q isso", id = "132146926560723"},
         {name = "calma novinh", id = "122394483729363"},
-        {name = "sai fora", id = "￴ ￴ ￴ ￴ ￴ ￴ ￴109367622521051"},
         {name = "cuidado", id = "￴ ￴ ￴ ￴￴109146055347656"},
         {name = "pique rj", id = "85153221690222"},
         {name = "não ajoelhar", id = "121675811816792"},
